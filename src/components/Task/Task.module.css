@@ -3,6 +3,9 @@
     align-items: center;
     gap: 12px;
     padding: 8px 0;
+    padding-left: 5px;
+    border-radius: 20px;
+    
 }
 
 .text {
@@ -36,4 +39,5 @@
     width: 24px;
     height: 24px;
     cursor: pointer;
+    
 }

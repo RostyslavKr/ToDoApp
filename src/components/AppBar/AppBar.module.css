@@ -1,8 +1,14 @@
 .wrapper {
     display: flex;
+    
     justify-content: space-between;
+    
 }
-
+.wrapperHeaderInf{
+    border-radius: 10px;
+    box-shadow: #ffbc2b -2px 3px 14px, #22c1c3 0px -2px 0px 3px;
+    padding: 10px;
+}
 .section {
     display: grid;
     gap: 4px;
@@ -10,5 +16,5 @@
 
 .title {
     margin: 0;
-    font-size: 16px;
+    font-size: 20px;
 }
